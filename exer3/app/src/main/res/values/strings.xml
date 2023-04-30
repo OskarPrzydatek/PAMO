@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_BMI">BMI</string>
+    <string name="title_benHar">BenHar</string>
+    <string name="title_recipies">Recipies</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_chart">Chart</string>
+</resources>
