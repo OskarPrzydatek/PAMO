@@ -21,3 +21,19 @@ Assignments from the PAMO subject will be posted in this repository. Description
 
 ### Recipe
 ![1](./screens/exercise_2/3.png)
+
+## Exercise Three
+
+### Quiz
+
+![1](./screens/exercise_3/1.png)
+
+### Quiz after resolve
+
+![1](./screens/exercise_3/2.png)
+
+### Chart
+
+![1](./screens/exercise_3/3.png)
+
+
