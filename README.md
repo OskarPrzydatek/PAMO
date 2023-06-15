@@ -36,4 +36,13 @@ Assignments from the PAMO subject will be posted in this repository. Description
 
 ![1](./screens/exercise_3/3.png)
 
+## Exercise Four: Kotlin migration
 
+### Screens from app after migration
+
+![1](./screens/exercise_4/1.png)
+![1](./screens/exercise_4/2.png)
+![1](./screens/exercise_4/3.png)
+![1](./screens/exercise_4/4_1.png)
+![1](./screens/exercise_4/4_2.png)
+![1](./screens/exercise_4/5.png)
